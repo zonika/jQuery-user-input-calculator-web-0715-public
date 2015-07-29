@@ -1,9 +1,4 @@
----
-language: JavaScript, js
-tags: selectors
-type: lab
-resources: 4
----
+
 
 # Code Challenge - jQuery User Input Calculator
 
